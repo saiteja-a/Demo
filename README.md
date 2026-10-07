@@ -1,3 +1,3 @@
 # Demo
 This is for learning purpose
-Author - Teja
+Author - Sai Teja
